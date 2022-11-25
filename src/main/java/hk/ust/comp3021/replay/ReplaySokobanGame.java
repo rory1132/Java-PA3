@@ -167,7 +167,6 @@ public class ReplaySokobanGame extends AbstractSokobanGame {
                                 throw new RuntimeException(e);
                             }
                         }
-                        System.out.println(action);
                         final var result = processAction(action);
                         abc.plus();
 
