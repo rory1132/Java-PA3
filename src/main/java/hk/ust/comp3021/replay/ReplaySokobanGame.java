@@ -112,7 +112,6 @@ public class ReplaySokobanGame extends AbstractSokobanGame {
     int colIndex = 0;
     ABC abc;
     int count = 0;
-    //int[] indexArr;
 
     /**
      * The implementation of the Runnable for each input engine thread.
